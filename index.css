@@ -646,20 +646,6 @@ body:not(.user-is-tabbing) a:focus {
 	justify-content: center;
 }
 
-#alberto {
-	display: grid;
-	align-items: center;
-	justify-content: center;
-}
-#alberto > h2 {
-	text-align: center;
-}
-
-#albertito {
-	display: grid;
-	justify-content: center;
-}
-
 /* --------------------------------------- */
 /* ----- Footer ----- */
 /* --------------------------------------- */
